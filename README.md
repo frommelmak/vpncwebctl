@@ -16,9 +16,10 @@ First of all, install the required dependencies.
 
 `pip install bottle`
 
-Then clone this repo and fill up the `server.conf` file to fit your needs.
+Then clone this repo in the `/opt` folder and fill up the `server.conf` file to fit your needs.
 
 ```
+cd /opt
 git clone git@github.com:frommelmak/vpncwebctl.git
 cd vpncwebctl
 python server.py
