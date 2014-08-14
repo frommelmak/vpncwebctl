@@ -2,6 +2,12 @@
 
 Control your Cisco VPN client remotely
 
+##Description
+
+Assuming that you have the Cisco VPN client already instaled in your VPN gateway server, this tool provides you a web interface allowing you to control your client remotely.
+
+Basically with this tool you'll be able to: start and stop the Cisco client and see the VPN connection status.
+
 ##Installation
 
 This utility is written using Bottle, a Python web framework.
