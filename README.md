@@ -18,7 +18,7 @@ First of all, install the required dependencies.
 
 `apt-get install python-bottle`
 
-###Or you can use the alternative python package installer
+###Using the alternative python package installer
 
 `pip install bottle`
 
