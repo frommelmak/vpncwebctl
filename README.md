@@ -14,11 +14,11 @@ This utility is written using Bottle, a Python web framework.
 
 First of all, install the required dependencies.
 
-###Using the Ubuntu/Debian package manager
+Using the Ubuntu/Debian package manager:
 
 `apt-get install python-bottle`
 
-###Using the alternative python package installer
+Or using the alternative python package installer
 
 `pip install bottle`
 
