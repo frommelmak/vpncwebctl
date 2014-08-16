@@ -4,7 +4,7 @@ Control your Cisco VPN client remotely
 
 ##Description
 
-Assuming that you have the Cisco VPN client already instaled in your VPN gateway server, this tool provides you a web interface allowing you to control your client remotely.
+Assuming that you have the Cisco VPN client already installed in your VPN gateway server, this tool provides you a web interface allowing you to control your client remotely.
 
 Basically with this tool you'll be able to: start and stop the Cisco client and see the VPN connection status.
 
@@ -33,4 +33,4 @@ python server.py
 
 ##Optional
 
-Finaly you can install [supervisor](http://supervisord.org/) in order to manage the server process.
+Finally you can install [supervisor](http://supervisord.org/) in order to manage the server process.
